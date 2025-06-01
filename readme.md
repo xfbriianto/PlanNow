@@ -158,4 +158,4 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-Dibuat dengan ❤️ oleh [Nama Anda]
+Dibuat dengan ❤️ oleh [Availll]
