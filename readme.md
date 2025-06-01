@@ -159,3 +159,5 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 ---
 
 Dibuat dengan ❤️ oleh [Availll]
+
+Demo: https://plan-now.vercel.app/
